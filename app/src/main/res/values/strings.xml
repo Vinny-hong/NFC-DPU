@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DPU NFC Reader</string>
+    <string name="text_description">แตะโทรศัพท์ที่ NFC Tag เพื่ออ่านค่า Facebook</string>
+    <string name="action_settings">Settings</string>
+</resources>
